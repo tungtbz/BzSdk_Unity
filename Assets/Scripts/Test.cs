@@ -17,4 +17,10 @@ public class Test : MonoBehaviour
     {
         AndroidFirebaseService.Instance.LogEventOpenApp();
     }
+
+
+    public void OpenLoginScene()
+    {
+        AndroidLoginService.Instance.StartLoginScene();
+    }
 }

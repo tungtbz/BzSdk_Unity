@@ -55,7 +55,9 @@
      <Compile Include="Assets\Scripts\PersistentSingleton.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
      <Compile Include="Assets\Scripts\AndroidAdsNativeService.cs" />
+     <Compile Include="Assets\Scripts\AndroidLoginService.cs" />
      <Compile Include="Assets\Scripts\AndroidFirebaseService.cs" />
+     <Compile Include="Assets\Scripts\Constants.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
